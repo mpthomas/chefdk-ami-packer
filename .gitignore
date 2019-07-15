@@ -1,0 +1,4 @@
+awsinfo.sh
+mykey*
+*.tfstate
+ssh_allow.tf
